@@ -3,3 +3,4 @@
 - Burger
 - Football
 - Black
+- more bio
